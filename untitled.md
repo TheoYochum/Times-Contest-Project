@@ -3,3 +3,7 @@
 5/31/2020
 9/28/2020 is very high
 10/1/2020 is questionable
+
+HKQuantityTypeIdentifierDistanceWalkingRunning - Need to look at
+HKQuantityTypeIdentifierAppleExerciseTime - Should be interesting
+HKQuantityTypeIdentifierAppleStandTime or HKCategoryTypeIdentifierAppleStandHour - Compare to stepcount
